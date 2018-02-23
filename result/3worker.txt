@@ -1,0 +1,107 @@
+----DEPTH 1----
+MATCHUP 2
+=====================RESULT======================
+Black won 100 matchups (100.00%)
+White won 0 matchups (0.00%)
+
+Average Black Move: 32.58
+Average White Move: 31.58
+Average White Piece Captured By Black: 11.89
+Average Black Piece Captured By White: 1.10
+Average Expanded Black Nodes: 986.88
+Average Expanded White Nodes: 618.15
+=================================================
+
+MATCHUP 3
+=====================RESULT======================
+Black won 88 matchups (88.00%)
+White won 12 matchups (12.00%)
+
+Average Black Move: 47.17
+Average White Move: 46.29
+Average White Piece Captured By Black: 13.45
+Average Black Piece Captured By White: 8.28
+Average Expanded Black Nodes: 1087.41
+Average Expanded White Nodes: 930.34
+=================================================
+
+----DEPTH 2----
+MATCHUP 2
+=====================RESULT======================
+Black won 30 matchups (30.00%)
+White won 70 matchups (70.00%)
+
+Average Black Move: 50.18
+Average White Move: 49.88
+Average White Piece Captured By Black: 1.16
+Average Black Piece Captured By White: 11.63
+Average Expanded Black Nodes: 10161.13
+Average Expanded White Nodes: 17109.20
+=================================================
+
+MATCHUP 3
+=====================RESULT======================
+Black won 99 matchups (99.00%)
+White won 1 matchups (1.00%)
+
+Average Black Move: 40.92
+Average White Move: 39.93
+Average White Piece Captured By Black: 10.46
+Average Black Piece Captured By White: 4.65
+Average Expanded Black Nodes: 13039.29
+Average Expanded White Nodes: 10727.34
+=================================================
+
+----DEPTH 3----
+MATCHUP 2
+=====================RESULT======================
+Black won 17 matchups (17.00%)
+White won 83 matchups (83.00%)
+
+Average Black Move: 52.75
+Average White Move: 52.25
+Average White Piece Captured By Black: 2.47
+Average Black Piece Captured By White: 12.99
+Average Expanded Black Nodes: 151385.87
+Average Expanded White Nodes: 253954.72
+=================================================
+
+MATCHUP 3
+=====================RESULT======================
+Black won 100 matchups (100.00%)
+White won 0 matchups (0.00%)
+
+Average Black Move: 34.48
+Average White Move: 33.48
+Average White Piece Captured By Black: 13.85
+Average Black Piece Captured By White: 4.74
+Average Expanded Black Nodes: 119778.49
+Average Expanded White Nodes: 72551.14
+=================================================
+
+----DEPTH 4----
+MATCHUP 2
+=====================RESULT======================
+Black won 20 matchups (20.00%)
+White won 80 matchups (80.00%)
+
+Average Black Move: 47.33
+Average White Move: 47.13
+Average White Piece Captured By Black: 1.35
+Average Black Piece Captured By White: 12.46
+Average Expanded Black Nodes: 696224.09
+Average Expanded White Nodes: 3243037.98
+=================================================
+
+MATCHUP 3
+=====================RESULT======================
+Black won 100 matchups (100.00%)
+White won 0 matchups (0.00%)
+
+Average Black Move: 33.14
+Average White Move: 32.14
+Average White Piece Captured By Black: 13.82
+Average Black Piece Captured By White: 5.06
+Average Expanded Black Nodes: 1302090.46
+Average Expanded White Nodes: 747555.04
+=================================================

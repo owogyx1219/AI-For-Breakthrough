@@ -1,0 +1,141 @@
+=====================RESULT======================
+White wins.
+
+=====Black=====
+Total 40 moves
+Captured 8 opponent's workers
+Expanded 318685 nodes (avg. 7967.13 nodes, avg. 28.28ms to move)
+
+=====White=====
+Total 40 moves
+Captured 16 opponent's workers
+Expanded 3587464 nodes (avg. 89686.60 nodes, avg. 241.53ms to move)
+=================================================
+
+=====================RESULT======================
+Black wins.
+
+=====Black=====
+Total 21 moves
+Captured 2 opponent's workers
+Expanded 54337954 nodes (avg. 2587521.62 nodes, avg. 11447.14ms to move)
+
+=====White=====
+Total 20 moves
+Captured 3 opponent's workers
+Expanded 21098315 nodes (avg. 1054915.75 nodes, avg. 3009.90ms to move)
+=================================================
+
+=====================RESULT======================
+Black wins.
+
+=====Black=====
+Total 26 moves
+Captured 8 opponent's workers
+Expanded 10196486 nodes (avg. 392172.54 nodes, avg. 1776.81ms to move)
+
+=====White=====
+Total 25 moves
+Captured 7 opponent's workers
+Expanded 5583721 nodes (avg. 223348.84 nodes, avg. 734.56ms to move)
+=================================================
+
+=====================RESULT======================
+Black wins.
+
+=====Black=====
+Total 23 moves
+Captured 7 opponent's workers
+Expanded 9091027 nodes (avg. 395262.04 nodes, avg. 1990.83ms to move)
+
+=====White=====
+Total 22 moves
+Captured 7 opponent's workers
+Expanded 4357807 nodes (avg. 198082.14 nodes, avg. 699.45ms to move)
+=================================================
+
+=====================RESULT======================
+Black wins.
+
+=====Black=====
+Total 29 moves
+Captured 4 opponent's workers
+Expanded 21447019 nodes (avg. 739552.38 nodes, avg. 3860.31ms to move)
+
+=====White=====
+Total 28 moves
+Captured 2 opponent's workers
+Expanded 26318413 nodes (avg. 939943.32 nodes, avg. 3881.82ms to move)
+=================================================
+
+=====================RESULT======================
+White wins.
+
+=====Black=====
+Total 45 moves
+Captured 4 opponent's workers
+Expanded 38144844 nodes (avg. 847663.20 nodes, avg. 4293.47ms to move)
+
+=====White=====
+Total 45 moves
+Captured 14 opponent's workers
+Expanded 21557351 nodes (avg. 479052.24 nodes, avg. 2030.04ms to move)
+=================================================
+
+3 WORKER
+=====================RESULT======================
+Black wins.
+
+=====Black=====
+Total 47 moves
+Captured 3 opponent's workers
+Expanded 55497743 nodes (avg. 1180803.04 nodes, avg. 4083.85ms to move)
+
+=====White=====
+Total 46 moves
+Captured 7 opponent's workers
+Expanded 30192535 nodes (avg. 656359.46 nodes, avg. 1722.63ms to move)
+=================================================
+
+=====================RESULT======================
+Black wins.
+
+=====Black=====
+Total 44 moves
+Captured 13 opponent's workers
+Expanded 14272622 nodes (avg. 324377.77 nodes, avg. 1189.77ms to move)
+
+=====White=====
+Total 43 moves
+Captured 7 opponent's workers
+Expanded 6506804 nodes (avg. 151321.02 nodes, avg. 406.53ms to move)
+=================================================
+
+10x5
+=====================RESULT======================
+White wins.
+
+=====Black=====
+Total 22 moves
+Captured 5 opponent's workers
+Expanded 9341832 nodes (avg. 424628.73 nodes, avg. 1751.86ms to move)
+
+=====White=====
+Total 22 moves
+Captured 12 opponent's workers
+Expanded 10370662 nodes (avg. 471393.73 nodes, avg. 1557.77ms to move)
+=================================================
+
+=====================RESULT======================
+Black wins.
+
+=====Black=====
+Total 15 moves
+Captured 11 opponent's workers
+Expanded 14713534 nodes (avg. 980902.27 nodes, avg. 3280.93ms to move)
+
+=====White=====
+Total 14 moves
+Captured 7 opponent's workers
+Expanded 5186739 nodes (avg. 370481.36 nodes, avg. 900.29ms to move)
+=================================================
